@@ -1,0 +1,3 @@
+# Test case,Amount,Expected
+"remain 0",1000,0
+"remain middle amount",800,200
